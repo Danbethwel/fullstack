@@ -1,2 +1,4 @@
-var name="Dan";
-alert(name)
+if(true) {
+    var name="Ryan";
+    alert (name);
+}
